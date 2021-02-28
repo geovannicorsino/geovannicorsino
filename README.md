@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**geovannicorsino/geovannicorsino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Geovanni Corsino 😀.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanni-corsino-82661518b/)](https://www.linkedin.com/in/geovanni-corsino-82661518b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me 🚀
+🎓 I am a student of systems analysis and development.
+
+🌱 Currently improving skills.
+
+🎮 I love to play video games, program and watch anime.
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=geovannicorsino&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
