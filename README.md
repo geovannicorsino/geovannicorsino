@@ -14,10 +14,7 @@ My name is Geovanni Corsino 😀.
 
 🎮 I love to play video games, program and watch anime.
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170"
-      src="https://github-readme-stats.vercel.app/api?username=geovannicorsino&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannicorsino&show_icons=true&theme=radical&locale=en&layout=compact" alt="geovannicorsino" />
- </a>
- 
+ <div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=geovannicorsino&show_icons=true&theme=radical&locale=en" alt="geovannicorsino" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannicorsino&show_icons=true&theme=radical&locale=en&layout=compact" alt="geovannicorsino" />
+</div>
