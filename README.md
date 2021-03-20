@@ -2,7 +2,9 @@
 
 My name is Geovanni Corsino 😀.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanni-corsino-82661518b/)](https://www.linkedin.com/in/geovanni-corsino-82661518b/)
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/geovanni-corsino-82661518b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/geovanni-corsino-82661518b/" height="30" width="40" /></a>
 
 
 ### About me 🚀
@@ -16,4 +18,5 @@ My name is Geovanni Corsino 😀.
     <img
       src="https://github-readme-stats.vercel.app/api?username=geovannicorsino&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
-  </a>
+ <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannicorsino&show_icons=true&theme=radical&locale=en&layout=compact" alt="geovannicorsino" />
+ </a>
