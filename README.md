@@ -2,7 +2,7 @@
 
 ### Data Engineer | 6x Google Cloud Certified | Python & SQL Specialist
 
-I am a **Data Engineer** specialized in the **Google Cloud Platform (GCP)** ecosystem. Currently, I work at **WPP Media Services**, where I develop and maintain proprietary frameworks for data ingestion and processing using serverless architectures. 
+I am a **Data Engineer** specialized in the **Google Cloud Platform (GCP)** ecosystem. Currently, I work at **Contabilizei**. 
 
 With a background in **Software Quality Assurance** and **DataOps**, I focus on building scalable, high-performance pipelines with a strong emphasis on data quality and CI/CD automation.
 
