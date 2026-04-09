@@ -1,6 +1,6 @@
 # Hi there, I'm Geovanni Corsino! 👋
 
-### Data Engineer | 6x Google Cloud Certified | Python & SQL Specialist
+### Data Engineer | 6x Google Cloud Certified | Python
 
 I am a **Data Engineer** specialized in the **Google Cloud Platform (GCP)** ecosystem. Currently, I work at **Contabilizei**. 
 
@@ -22,11 +22,11 @@ I hold **6 Google Cloud certifications**, reflecting my expertise in designing a
 
 ### 🛠 Tech Stack & Tools
 
-* **Languages:** Python, SQL (Advanced BigQuery Tuning), and Java.
+* **Languages:** Python, SQL, and Java.
 * **Google Cloud:** BigQuery, Cloud Run, Cloud Tasks, Firestore, Dataform, Cloud Storage, and Cloud Monitoring.
 * **Data Engineering:** ETL/ELT Pipelines, Data Lake/Warehouse Architecture, and Data Modeling.
 * **Orchestration:** Apache Airflow.
-* **DevOps/CI/CD:** Docker, Jenkins, Git, and automated pipelines.
+* **DevOps/CI/CD:** Docker, Git, and automated pipelines.
 
 ---
 
@@ -39,6 +39,4 @@ I hold **6 Google Cloud certifications**, reflecting my expertise in designing a
 ### 📫 Connect with me:
 * **LinkedIn:** [linkedin.com/in/geovanni-corsino-82661518b](https://www.linkedin.com/in/geovanni-corsino-82661518b)
 * **Email:** geovannicorsino@gmail.com
-* **Location:** Curitiba, Brazil 🇧🇷
-
 ---
